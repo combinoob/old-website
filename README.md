@@ -10,7 +10,7 @@ To use the source code of this website, please use the following in the <code>.h
                                             <pre id="codeBox">
 &lt;footer class="footer"&gt;
     &lt;div class="container text-center"&gt;
-        &lt;span class="text-muted"&gt;&amp;copy; &lt;a href="https://combinoob.github.io"&gt;Nirjhar Nath&lt;/a&gt;&lt;/span&gt;
+        &lt;span class="text-muted"&gt;&amp;copy; &lt;a href="https://combinoob.github.io "&gt;Nirjhar Nath&lt;/a&gt;&lt;/span&gt;
     &lt;/div&gt;
 &lt;/footer&gt;
                                             </pre>
