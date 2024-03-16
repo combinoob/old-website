@@ -1,7 +1,6 @@
 # old-website
 This repository contains the source code of the website I don't use anymore.
 To use the source code of this website, please use the following in the <code>.html</code> file(s) of your website.
-<section>
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-md-8">
@@ -20,4 +19,3 @@ To use the source code of this website, please use the following in the <code>.h
                                 </div>
                             </div>
                         </div>
-                    </section> 
