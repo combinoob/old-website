@@ -15,7 +15,6 @@ To use the source code of this website, please use the following in the <code>.h
     &lt;/div&gt;
 &lt;/footer&gt;
                                             </pre>
-                                            <button class="btn btn-primary" onclick="copyCode()">Copy Code</button>
                                         </div>
                                     </div>
                                 </div>
